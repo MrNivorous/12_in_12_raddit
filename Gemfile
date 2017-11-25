@@ -18,6 +18,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'jquery-rails'
+gem 'acts_as_votable', '~> 0.11.1'
 
 
 
